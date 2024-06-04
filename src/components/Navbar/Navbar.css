@@ -1,0 +1,15 @@
+.nav a{
+    font-size: 18px;
+    margin: 2px;
+    color: lightgray;
+    gap: 20px;
+    display: flex;
+    /* justify-content: space-between; */
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,16 @@
+button{
+    color: red;
+    border: none;
+    float: right;
+    font-size: 12pt;
+    font-weight: bold;
+    }
+
+p{
+    font-size: 14pt;
+    list-style-type: none;
+}
+
+img{
+    width: 100%;
+}
